@@ -12,7 +12,7 @@
 
 虚拟机网络拓扑
 
-<img src="pic\1.jpg" alt="1569415073712" style="zoom:50%;" />
+<img src="pic\1.JPG" alt="1569415073712" style="zoom:50%;" />
 
 # 多重加载
 
