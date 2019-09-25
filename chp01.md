@@ -12,13 +12,13 @@
 
 虚拟机网络拓扑
 
-<img src="pic\1.JPG" alt="1569415073712" style="zoom:50%;" />
+<img src="pic\1.JPG" alt="1569415073712" style="zoom: 25%;" />
 
 # 多重加载
 
 ## 实验截图
 
-<img src="pic\chp01_multi.JPG" alt="多重加载" style="zoom:50%;" />
+<img src="pic\chp01_multi.JPG" alt="多重加载" style="zoom: 50%;" />
 
 ## 注意事项
 
@@ -34,7 +34,7 @@
 
 ### 虚拟机网络构成
 
-<img src="pic\chp01_topol.JPG" style="zoom:50%;" />
+<img src="pic\chp01_topol.JPG" style="zoom: 33%;" />
 
 ### 靶机可以直接访问攻击者主机
 
@@ -44,7 +44,7 @@
 
 <img src="pic\1569245835025.png" alt="攻击者ping靶机" style="zoom:50%;" />
 
-<img src="pic\1569335007897.png" alt='攻击者ping网关' style="zoom:50%;" />
+<img src="pic\1569335007897.png" alt='攻击者ping网关' style="zoom: 33%;" />
 
 * 证明过程
   1. 攻击者主机无法ping通靶机
@@ -79,11 +79,11 @@
 
 * Gateway-Debian
 
-<img src="pic\chp01_GateNet.JPG" alt="网关联网" style="zoom:50%;" />
+<img src="pic\chp01_GateNet.JPG" alt="网关联网" style="zoom: 33%;" />
 
 * Kali-Attacker
 
-  <img src="pic\1569162446116.png" alt="攻击者联网" style="zoom:50%;" />
+  <img src="pic\1569162446116.png" alt="攻击者联网" style="zoom: 33%;" />
 
   1. 该步遇到的问题
 
@@ -95,7 +95,7 @@
 
 * Victim-Kali
 
-<img src="pic\1569333377134.png" alt="受害kali联网" style="zoom:50%;" />
+<img src="pic\1569333377134.png" alt="受害kali联网" style="zoom: 33%;" />
 
 * XP
 
