@@ -36,7 +36,9 @@
 
 ### 攻击者主机无法直接访问靶机
 
-<img src="pic\1569245835025.png" alt="攻击者ping靶机" style="zoom:50%;" />![攻击者ping网关](pic\1569335007897.png)
+<img src="pic\1569245835025.png" alt="攻击者ping靶机" style="zoom:50%;" />
+
+<img src="pic\1569335007897.png" alt='攻击者ping网关' style="zoom:50%;" />
 
 * 证明过程
   1. 攻击者主机无法ping通靶机
