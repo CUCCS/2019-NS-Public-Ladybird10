@@ -133,7 +133,7 @@ if __name__=="__main__":
     scan(sys.argv[1:])
 ```
 
-![Tcp_nu2](chp5_pic\TCP_NU2.png)
+<img src="chp5_pic\TCP_NU2.png" alt="TCPNU2"  />
 
 * 开放状态
   * <img src="chp5_pic\TCP_NU.png" alt="tcp_nu" style="zoom:50%;" />
