@@ -73,7 +73,7 @@ if __name__=="__main__":
     scan(sys.argv[1:])
 ```
 
-![tcpcon2](chp5_pic\TCP_con2.png)
+<img src="chp5_pic\TCP_con2.png" alt="tcpcon2"  />
 
 * 开放
 
